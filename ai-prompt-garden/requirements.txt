@@ -1,0 +1,2 @@
+# AI Prompt Garden 依赖
+openai>=1.0.0
